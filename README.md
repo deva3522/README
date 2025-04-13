@@ -3,4 +3,3 @@
 <p><em>CSE Student at <a href="https://crescent.education">Crescent University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-// ... rest of the existing README content ...
